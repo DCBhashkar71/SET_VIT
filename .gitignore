@@ -1,0 +1,10 @@
+data/
+*.pkl
+*.7z
+*.zip
+__pycache__/
+.ipynb_checkpoints/
+outputs*/
+figs*/
+sens_*/
+old_versions/
